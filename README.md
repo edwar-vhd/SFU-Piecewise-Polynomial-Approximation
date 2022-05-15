@@ -1,4 +1,5 @@
-# SFU
+# SFU - Piecewise Polynomial Approximation
+
 Special Function Units (SFUs) are hardware accelerators, their implementation helps improve the performance of GPUs to process some of the most complex operations. This SFU implements the Piecewise Polynomial Approximation, which provides high performance, low area costs and good accuracy for real implementation of hardware.
 
 The SFU can also be integrated and used as a stand-alone accelerator or coprocessor in a processor-based system.
